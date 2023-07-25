@@ -1,6 +1,6 @@
 # CN-AlarmClock-Rishu
 Hi, 
-I have created this alarm clock project during my cn's full stack course. This project is a simple web-based alarm clock application built using HTML, JavaScript, and CSS. Below are the features and functionalities of this project:
+I have created this alarm clock project during my cn's full stack course. This project is a simple web-based alarm clock application built using HTML, JavaScript, and Bootstrap CSS. Below are the features and functionalities of this project:
 Features:
 
 Clock Display: The application displays a digital clock showing the current time in the 12hr format.
